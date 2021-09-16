@@ -1,0 +1,29 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    font-family: rockwell;
+}
+img {
+    max-width: 100%;
+}
+#logo {
+    z-index: 0;
+    position: absolute;
+    top: 0;
+    text-align: center;
+    font-size: 200%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 25px;
+    padding: 10px 10px 5px 10px;
+    color: black;
+    background-color: darkorange;
+    border-radius: 25px;
+    font-family: 'Passion One', cursive;
+    letter-spacing: 1px;
+    width: 40%;
+    opacity: .9;
+}
+.black {
+    color: black;
+}
